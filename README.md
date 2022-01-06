@@ -10,3 +10,7 @@ Contents:
     - Lipidomic reversed phase positive ion mode (LPOS)
     - Lipidomic reversed phase negative ion mode (LNEG)
   - Protocols: Standard operating procedures (SOPs) in pdf format. 
+
+Additional Links:
+  - [Data Pre-processing and Quality Control Tutorials (nPYc-Toolbox)](https://github.com/phenomecentre/nPYc-toolbox-tutorials): Comprehensive training materials and documentation for data pre-processing and QC, including Jupyter notebooks, full documentation and exemplar data
+ - [Targeted Extraction of Annotated Metabolites (PeakPantheR)](https://github.com/phenomecentre/peakPantheR): Comprehensive training materials and documentation for the targeted extraction of annotated metabolites from LC-MS global profiling data, including vignettes and exemplar data
