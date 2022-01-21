@@ -9,7 +9,15 @@ Contents:
     - HILIC positive ion mode (HPOS)
     - Lipidomic reversed phase positive ion mode (LPOS)
     - Lipidomic reversed phase negative ion mode (LNEG)
-  - Protocols: Standard operating procedures (SOPs) in pdf format. 
+  - Protocols: Standard operating procedures (SOPs) and corresponding proformas (PRO) to document the outlined procedures in pdf format. 
+    - NPC.SOP.CC004_v1.1: Sample sorting and LIMS logging 
+    - NPC.SOP.CC005_v2.1: Formatting and replication of samples 
+    - NPC.SOP.MS001_v2.1: Calibration and LockMass 
+    - NPC.SOP.MS002_v2.1 and NPC.PRO.MS002_v2.1: UPLC, sample manager and Q-ToF system performance check 
+    - NPC.SOP.MS003_v2.1 and NPC.PRO.MS003_v2.1: RPC UPLC-QTOF analysis of lipids in human plasma and serum 
+    - NPC.SOP.MS004_v2.1 and NPC.PRO.MS004_v2.1: HILIC UPLC-QTOF analysis of small molecules in human plasma and serum 
+    - NPC.SOP.MS005_v2.1 and NPC.PRO.MS005_v2.1: RPC UPLC-QTOF analysis of small molecules in human urine 
+    - NPC.SOP.MS006_v2.1 and NPC.PRO.MS006_v2.1: HILIC UPLC-QTOF analysis of small molecules in human urine 
 
 Additional Links:
  - [Targeted Extraction of Annotated Metabolites (PeakPantheR)](https://github.com/phenomecentre/peakPantheR): Comprehensive training materials and documentation for the targeted extraction of annotated metabolites from LC-MS global profiling data, including vignettes and exemplar data.
