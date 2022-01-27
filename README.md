@@ -1,5 +1,7 @@
 # The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics 
 
+[![DOI](https://zenodo.org/badge/409603110.svg)](https://zenodo.org/badge/latestdoi/409603110)
+
 This repository contains the supporting materials for the manuscript "The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics". 
 
 Contents:
