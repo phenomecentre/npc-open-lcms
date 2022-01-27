@@ -22,6 +22,7 @@ Contents:
      and RPC for lipid profiling).
     <br></br>
     <span style="display:block;text-align:center">![NPC LC-MS Workflow](./Protocols/SOPworkflow.png?style=centerme)</span>
+    
     <span style="display:block;text-align:center">NPC LC-MS metabolic profiling workflow</span>
 
 Additional Links:
