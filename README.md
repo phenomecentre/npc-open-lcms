@@ -23,7 +23,7 @@ Contents:
     <br></br>
     <span style="display:block;text-align:center">![NPC LC-MS Workflow](./Protocols/SOPworkflow.png?style=centerme)</span>
     
-    <span style="display:block;text-align:center">NPC LC-MS metabolic profiling workflow</span>
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NPC LC-MS metabolic profiling workflow
 
 Additional Links:
  - [Targeted Extraction of Annotated Metabolites (PeakPantheR)](https://github.com/phenomecentre/peakPantheR): Comprehensive training materials and documentation for the targeted extraction of annotated metabolites from LC-MS global profiling data, including vignettes and exemplar data.
