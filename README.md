@@ -5,12 +5,13 @@
 This repository contains the supporting materials for the manuscript "The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics". 
 
 Contents:
-  - LC-MS Metabolite annotations: Metabolite annotations (retention time and m/z values) for 5 NPC LC-MS profiling assays.
+  - LC-MS Metabolite annotations: Metabolite annotations (retention time and m/z values) for 6 NPC LC-MS profiling assays.
     - Reversed phase positive ion mode (RPOS)
     - Reversed phase negative ion mode (RNEG)
     - HILIC positive ion mode (HPOS)
     - Lipidomic reversed phase positive ion mode (LPOS)
     - Lipidomic reversed phase negative ion mode (LNEG)
+	- Bile Acid negative ion mode (BANEG)
   - Protocols: Standard operating procedures (SOPs) and corresponding proformas (PRO) to document the outlined procedures in pdf format. 
     - NPC.SOP.CC004_v1.1: Sample sorting and LIMS logging 
     - NPC.SOP.CC005_v2.1: Formatting and replication of samples 
